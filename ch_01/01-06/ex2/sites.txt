@@ -1,0 +1,13 @@
+https://pl.wikipedia.org/wiki/Liczby_Stirlinga
+https://epodreczniki.open.agh.edu.pl/tiki-index.php
+https://www.youtube.com/
+https://rutracker.org/forum/index.php
+https://stackoverflow.com/questions/873043/removing-carriage-return-and-new-line-from-the-end-of-a-string-in-c-sharp
+https://stackoverflow.com/questions/40610398/golang-concurrent-http-request-handling
+https://stackoverflow.com/questions/39180642/why-does-printf-not-work
+https://rutracker.org/forum/index.php
+https://identityserver4.readthedocs.io/en/latest/topics/signin.html
+https://identityserver4.readthedocs.io/en/latest/endpoints/endsession.html
+https://identityserver4.readthedocs.io/en/latest/endpoints/device_authorization.html
+https://identityserver4.readthedocs.io/en/latest/endpoints/introspection.html
+https://identityserver4.readthedocs.io/en/latest/topics/signin_external_providers.html
